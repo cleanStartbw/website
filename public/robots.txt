@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://website-seven-gray-68.vercel.app/sitemap.xml
